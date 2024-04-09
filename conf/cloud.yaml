@@ -1,0 +1,6 @@
+version: 1.1
+aliyun:
+  accessKey: xxxxxxxxxxxx
+  accessSecret: xxxxxxxxxxxx
+  ver: 10
+  ecsHost: ecs.aliyuncs.com
