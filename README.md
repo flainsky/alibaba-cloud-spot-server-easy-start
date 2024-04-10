@@ -5,3 +5,7 @@
 ## 使用方法
 - 配置```/conf/cloud.yaml```文件，编辑accessKey 和 accessSecret
 - 进入main.go自定义参数即可使用
+
+## 计划
+- 构建可视化自动化环境发布平台
+- 基于go + jenkins + 云服务
